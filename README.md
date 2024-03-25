@@ -6,10 +6,10 @@
 
 ## How to do this 
 
-Make sure you are logged into your google cloude CLI [(https://cloud.google.com/sdk/gcloud/reference/auth/login)]
-Clone this repository to your local
-Make sure you have Node insatlled 
-Open terminal from your project directory 
+1. Make sure you are logged into your google cloude CLI https://cloud.google.com/sdk/gcloud/reference/auth/login
+2. Clone this repository to your local
+3. Make sure you have Node insatlled 
+4. Open terminal from your project directory 
 
 Run:
 
