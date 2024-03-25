@@ -19,6 +19,6 @@ npm insall
 
 
 ```
-gcloud functions deploy getPlaceFromId --runtime=nodejs16 --trigger-http --set-env-vars API_KEY=YOUR_API_KEY
+gcloud functions deploy autocompletePlace --runtime=nodejs16 --trigger-http --set-env-vars API_KEY=YOUR_API_KEY
 ```
 Add your api key here so that it will be saved in environment variable(Safe)
